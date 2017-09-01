@@ -82,7 +82,7 @@ else
 	 echo "${TAB}body: 'Start putting stuff for your app here!'" && \
 	 echo "${RIGHT_CB};" && \
 	 echo "var vm = new Vue(${LEFT_CB}" && \
-     echo "${TAB}el: 'head'," && \
+         echo "${TAB}el: 'head'," && \
 	 echo "${TAB}data: data" && \
 	 echo "${RIGHT_CB});" && \
 	 echo "var vm2 = new Vue(${LEFT_CB}" && \
