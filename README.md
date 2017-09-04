@@ -14,3 +14,13 @@ Notes:
 -Hard coded some file creation and tried out downloading some files from Gists.  I noticed that with even one small change the filename for the gist would change.  I wonder if I can use another link, but as of now I need the raw version of the file.
 
 -Currently testing it out by making apps with it.  Never used Vue and Page either, but I chose this stack after looking at the other frameworks in Javascript.  I'll put some apps I'm making in it up also as time progresses.
+
+# buildgame (Beta Version, Released 9/4/2017)
+
+Sets up a work directory for a game using Canvas with Easel.js, Sound.js, Preload.js and some homespun classes for graphics.  Also uses Keyboard.js and gamepadAPI for control options.
+
+Notes:
+
+-The command "grunt builddevelopment" must be run once so that main.js can be created.  All it does is combine the javascript files together to one file.
+
+-Where to get started?  Look at PlayScreen/PlayScreenDrawer.
