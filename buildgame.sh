@@ -26,7 +26,7 @@ BODY_CLOSE="${TAB}</body>"
 if [ "$1" = "" ]; then
   echo Usage: buildgame [projectname] [optional: width] [optional: height]
   echo
-  echo buildapp is used to start up a new game with the Create.js suite and various tools for productivity.
+  echo buildgame is used to start up a new game with the Create.js suite and various tools for productivity.
   echo
   echo Made by Olin Gallet September 2017
   exit 0;
