@@ -25,6 +25,6 @@ Notes:
 
 -Where to get started?  Look at PlayScreen/PlayScreenDrawer.
 
-# jobsearch (Beta Version, Released 8/21/2018)
+# jobcrawler (Beta Version, Released 8/21/2018)
 
 Does a quick job search through indeed.com.  Original version was done in PHP, but new version is in Node.js.  Uses SendGrid to send mail regarding jobs to an email.  Hook this up to a cron job for automated job updates on your terms.
